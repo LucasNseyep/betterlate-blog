@@ -10,6 +10,7 @@ h1 {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   font-weight: bold;
+  color: black;
 }
 
 .logo {
@@ -27,7 +28,7 @@ body {
   padding: 0 10px;
   font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #444;
-  /* background-color: #121212; */
+  background-color: #E5E5E5;
 }
 
 .sunset-gradient-text {
@@ -111,7 +112,7 @@ hr {
 }
 
 .reference-list-orange li, .link-orange {
-  color: #F3713E;
+  color: #F05A24;
 }
 
 .page-bottom-ascii {
